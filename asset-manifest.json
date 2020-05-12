@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/http//ragulragul200799.github.io/budjectcalculation/static/css/main.ec6ba4d9.chunk.css",
+    "main.js": "/http//ragulragul200799.github.io/budjectcalculation/static/js/main.0e422506.chunk.js",
+    "main.js.map": "/http//ragulragul200799.github.io/budjectcalculation/static/js/main.0e422506.chunk.js.map",
+    "runtime-main.js": "/http//ragulragul200799.github.io/budjectcalculation/static/js/runtime-main.91762e24.js",
+    "runtime-main.js.map": "/http//ragulragul200799.github.io/budjectcalculation/static/js/runtime-main.91762e24.js.map",
+    "static/css/2.760f716c.chunk.css": "/http//ragulragul200799.github.io/budjectcalculation/static/css/2.760f716c.chunk.css",
+    "static/js/2.82047dd7.chunk.js": "/http//ragulragul200799.github.io/budjectcalculation/static/js/2.82047dd7.chunk.js",
+    "static/js/2.82047dd7.chunk.js.map": "/http//ragulragul200799.github.io/budjectcalculation/static/js/2.82047dd7.chunk.js.map",
+    "index.html": "/http//ragulragul200799.github.io/budjectcalculation/index.html",
+    "precache-manifest.a1eb83bf55cd5367d0b7077c3795f9bc.js": "/http//ragulragul200799.github.io/budjectcalculation/precache-manifest.a1eb83bf55cd5367d0b7077c3795f9bc.js",
+    "service-worker.js": "/http//ragulragul200799.github.io/budjectcalculation/service-worker.js",
+    "static/css/2.760f716c.chunk.css.map": "/http//ragulragul200799.github.io/budjectcalculation/static/css/2.760f716c.chunk.css.map",
+    "static/css/main.ec6ba4d9.chunk.css.map": "/http//ragulragul200799.github.io/budjectcalculation/static/css/main.ec6ba4d9.chunk.css.map",
+    "static/js/2.82047dd7.chunk.js.LICENSE.txt": "/http//ragulragul200799.github.io/budjectcalculation/static/js/2.82047dd7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91762e24.js",
+    "static/css/2.760f716c.chunk.css",
+    "static/js/2.82047dd7.chunk.js",
+    "static/css/main.ec6ba4d9.chunk.css",
+    "static/js/main.0e422506.chunk.js"
+  ]
+}
