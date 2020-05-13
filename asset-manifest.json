@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/budjectcalculation/static/css/main.c2ae5afc.chunk.css",
-    "main.js": "/budjectcalculation/static/js/main.0c08dad6.chunk.js",
-    "main.js.map": "/budjectcalculation/static/js/main.0c08dad6.chunk.js.map",
-    "runtime-main.js": "/budjectcalculation/static/js/runtime-main.42fbb011.js",
-    "runtime-main.js.map": "/budjectcalculation/static/js/runtime-main.42fbb011.js.map",
-    "static/css/2.760f716c.chunk.css": "/budjectcalculation/static/css/2.760f716c.chunk.css",
-    "static/js/2.fe3d0927.chunk.js": "/budjectcalculation/static/js/2.fe3d0927.chunk.js",
-    "static/js/2.fe3d0927.chunk.js.map": "/budjectcalculation/static/js/2.fe3d0927.chunk.js.map",
-    "index.html": "/budjectcalculation/index.html",
-    "precache-manifest.62e969f52b874499de725ee4abac8df0.js": "/budjectcalculation/precache-manifest.62e969f52b874499de725ee4abac8df0.js",
-    "service-worker.js": "/budjectcalculation/service-worker.js",
-    "static/css/2.760f716c.chunk.css.map": "/budjectcalculation/static/css/2.760f716c.chunk.css.map",
-    "static/css/main.c2ae5afc.chunk.css.map": "/budjectcalculation/static/css/main.c2ae5afc.chunk.css.map",
-    "static/js/2.fe3d0927.chunk.js.LICENSE.txt": "/budjectcalculation/static/js/2.fe3d0927.chunk.js.LICENSE.txt"
+    "main.css": "/calculator-react/static/css/main.3f68c979.chunk.css",
+    "main.js": "/calculator-react/static/js/main.a81160a3.chunk.js",
+    "main.js.map": "/calculator-react/static/js/main.a81160a3.chunk.js.map",
+    "runtime-main.js": "/calculator-react/static/js/runtime-main.a09c319c.js",
+    "runtime-main.js.map": "/calculator-react/static/js/runtime-main.a09c319c.js.map",
+    "static/css/2.6475d966.chunk.css": "/calculator-react/static/css/2.6475d966.chunk.css",
+    "static/js/2.3d932b27.chunk.js": "/calculator-react/static/js/2.3d932b27.chunk.js",
+    "static/js/2.3d932b27.chunk.js.map": "/calculator-react/static/js/2.3d932b27.chunk.js.map",
+    "index.html": "/calculator-react/index.html",
+    "precache-manifest.295c85f98204debadc8500a08b1c20cf.js": "/calculator-react/precache-manifest.295c85f98204debadc8500a08b1c20cf.js",
+    "service-worker.js": "/calculator-react/service-worker.js",
+    "static/css/2.6475d966.chunk.css.map": "/calculator-react/static/css/2.6475d966.chunk.css.map",
+    "static/css/main.3f68c979.chunk.css.map": "/calculator-react/static/css/main.3f68c979.chunk.css.map",
+    "static/js/2.3d932b27.chunk.js.LICENSE.txt": "/calculator-react/static/js/2.3d932b27.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.42fbb011.js",
-    "static/css/2.760f716c.chunk.css",
-    "static/js/2.fe3d0927.chunk.js",
-    "static/css/main.c2ae5afc.chunk.css",
-    "static/js/main.0c08dad6.chunk.js"
+    "static/js/runtime-main.a09c319c.js",
+    "static/css/2.6475d966.chunk.css",
+    "static/js/2.3d932b27.chunk.js",
+    "static/css/main.3f68c979.chunk.css",
+    "static/js/main.a81160a3.chunk.js"
   ]
 }
